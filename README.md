@@ -1,6 +1,6 @@
 ## Yurii Biriukov
 
-Practitioner-first Dynamics 365 and Power Platform work. 14+ years of enterprise delivery across public sector, financial services, maritime, and staffing — building what real projects need and writing about the patterns, mistakes, and solutions the docs don't tell you.
+Practitioner-first Dynamics 365 and Power Platform engineering. 14+ years of enterprise delivery across public sector, financial services, maritime, and staffing — building what real projects need and writing about the patterns, mistakes, and solutions the docs don't tell you.
 
 ### What I ship on GitHub
 
